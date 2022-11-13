@@ -1,0 +1,317 @@
+h1{
+    color: green;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+div#a1{
+    color: red;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+    text-align: center;
+    line-height: 300px;
+    border-radius: 300px;
+    display: inline-block;
+
+}
+div#a1:hover{
+    color: white;
+    background-color: green;
+}
+
+div#a2{
+    color: blue;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 300px;
+    background-color: orchid;
+    text-align: center;
+    line-height: 300px;
+    border-radius: 300px;
+    display: inline-block;
+
+
+}
+div#a2:hover{
+    color: white;
+    background-color: orangered;
+}
+div#a3{
+    color: yellowgreen;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 300px;
+    background-color: lavender;
+    text-align: center;
+    line-height: 300px;
+    border-radius: 300px;
+    display: inline-block;
+
+}
+div#a3:hover{
+    color: white;
+    background-color: orange;
+}
+
+div#a4{
+    color: Tomato;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(240, 255, 248);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a4:hover{
+    color: white;
+    background-color: darkcyan;
+}
+div#a5{
+    color: rgb(215, 255, 71);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(255, 240, 253);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a5:hover{
+    color: white;
+    background-color: darksalmon;
+}
+div#a6{
+    color: rgb(255, 157, 71);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(240, 255, 241);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a6:hover{
+    color: white;
+    background-color:darkmagenta;
+}
+div#a7{
+    color: rgb(203, 71, 255);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(240, 255, 241);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a7:hover{
+    color: white;
+    background-color: darkslategrey;
+}
+div#a8{
+    color: rgb(255, 71, 126);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(240, 255, 244);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a8:hover{
+    color: white;
+    background-color: dimgray;
+}
+div#a9{
+    color: rgb(71, 102, 255);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(242, 255, 240);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a9:hover{
+    color: white;
+    background-color: darkviolet;
+}
+div#a10{
+    color: rgb(255, 252, 71);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(255, 240, 251);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a10:hover{
+    color: white;
+    background-color: darkturquoise;
+}
+div#a11{
+    color: rgb(255, 71, 99);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(242, 255, 240);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a11:hover{
+    color: white;
+    background-color: darkblue;
+}
+div#a12{
+    color: rgb(255, 71, 86);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(240, 250, 255);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a12:hover{
+    color: white;
+    background-color: darkslategray;
+}
+div#a13{
+    color: rgb(71, 255, 172);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(254, 255, 240);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a13:hover{
+    color: white;
+    background-color: darkseagreen;
+}
+div#a14{
+    color: rgb(71, 197, 255);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(255, 246, 240);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a14:hover{
+    color: white;
+    background-color: darksalmon;
+}
+div#a15{
+    color: rgb(71, 145, 255);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(255, 244, 240);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a15:hover{
+    color: white;
+    background-color: linen;
+}
+div#a16{
+    color: rgb(255, 71, 71);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgb(255, 240, 240);
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a16:hover{
+    color: white;
+    background-color: lightcoral;
+}
+div#a17{
+    color: rgb(200, 255, 71);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: pink;
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a17:hover{
+    color: white;
+    background-color: lightseagreen;
+}
+div#a18{
+    color: rgb(148, 71, 255);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: blue;
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a18:hover{
+    color: white;
+    background-color: lightslategray;
+}
+div#a19{
+    color: rgb(50, 164, 205);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: MediumSeaGreen;
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a1:hover{
+    color: white;
+    background-color: lightgreen;
+}
+div#a20{
+    color: rgba(206, 255, 71, 0.16);
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: green;
+    font-size: 3em;
+    text-align: center;
+    line-height: 300px;
+    display: inline-block;
+}
+div#a1:hover{
+    color: white;
+    background-color: lightgoldenrodyellow;
+}
